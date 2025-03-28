@@ -11704,7 +11704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1.25u"
+		(property "Footprint" "cscslib:CPG151101S11_2.25u"
 			(at 137.16 115.57 0)
 			(effects
 				(font
@@ -11770,7 +11770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_2u_RS"
+		(property "Footprint" "cscslib:CPG151101S11_2u"
 			(at 83.82 115.57 0)
 			(effects
 				(font
@@ -11923,7 +11923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_2.25u_RS"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 154.94 115.57 0)
 			(effects
 				(font
