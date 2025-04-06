@@ -368,6 +368,16 @@
 		(uuid "31972606-ded7-4ab7-a7ac-9637fb00cd4b")
 	)
 	(fp_line
+		(start -0.635 3.81)
+		(end -0.635 3.81)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "f7c80854-5431-42ab-826d-76612fd4cd70")
+	)
+	(fp_line
 		(start -15.478138 -7.143756)
 		(end -8.334382 -7.143756)
 		(stroke
