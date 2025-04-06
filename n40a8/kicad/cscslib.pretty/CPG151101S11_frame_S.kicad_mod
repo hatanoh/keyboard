@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(property "Reference" "SW"
 		(at -8.4 0 180)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(hide yes)
 		(uuid "8d6d17e4-104f-4577-9610-0750d1a21a17")
 		(effects
@@ -17,7 +17,7 @@
 	)
 	(property "Value" "VAL**"
 		(at 0 3 0)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(hide yes)
 		(uuid "241da4b7-e388-4bb0-82b2-089b469dae7d")
 		(effects
