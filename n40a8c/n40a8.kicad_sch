@@ -3486,7 +3486,7 @@
 	)
 	(global_label "IO 3"
 		(shape bidirectional)
-		(at 21.59 44.45 180)
+		(at 21.59 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3496,7 +3496,7 @@
 		)
 		(uuid "0a1c8169-a326-4e20-a6e6-8719314ddd0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 44.45 0)
+			(at 14.1941 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3572,7 +3572,7 @@
 	)
 	(global_label "IO 2"
 		(shape bidirectional)
-		(at 21.59 40.64 180)
+		(at 21.59 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3582,7 +3582,7 @@
 		)
 		(uuid "226c3660-5308-4224-94d6-4b6cc7f7bd2f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 40.64 0)
+			(at 14.1941 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3726,7 +3726,7 @@
 	)
 	(global_label "IO 5"
 		(shape bidirectional)
-		(at 21.59 52.07 180)
+		(at 21.59 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3736,7 +3736,7 @@
 		)
 		(uuid "64ab9991-e904-4658-bb1d-39402feaab6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 52.07 0)
+			(at 14.1941 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,7 +3876,7 @@
 	)
 	(global_label "IO 6"
 		(shape bidirectional)
-		(at 21.59 55.88 180)
+		(at 21.59 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3886,7 +3886,7 @@
 		)
 		(uuid "99ab58de-12ed-470a-9dd3-e634b6443c2a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 55.88 0)
+			(at 14.1941 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4068,22 +4068,22 @@
 	)
 	(global_label "IO 7"
 		(shape bidirectional)
-		(at 68.58 55.88 0)
+		(at 21.59 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e9f80e66-e9fe-40f3-b58e-90d982fa46bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9759 55.88 0)
+			(at 14.1941 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4112,22 +4112,22 @@
 	)
 	(global_label "IO 1"
 		(shape bidirectional)
-		(at 21.59 36.83 180)
+		(at 68.58 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "f01aaafb-aea5-4b2f-a42e-49a1b30f945b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 36.83 0)
+			(at 75.9759 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5764,7 +5764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.5u"
 			(at 309.88 99.06 0)
 			(effects
 				(font
@@ -6570,7 +6570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 289.56 160.02 0)
 			(effects
 				(font
@@ -6731,7 +6731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_2.25u"
 			(at 198.12 160.02 0)
 			(effects
 				(font
@@ -6801,7 +6801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.75u"
 			(at 36.195 119.38 0)
 			(effects
 				(font
@@ -7641,7 +7641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_2.25u"
 			(at 309.88 119.38 0)
 			(effects
 				(font
@@ -8757,7 +8757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 36.195 160.02 0)
 			(effects
 				(font
@@ -9652,7 +9652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.75u"
 			(at 289.56 139.7 0)
 			(effects
 				(font
@@ -9722,7 +9722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 97.155 160.02 0)
 			(effects
 				(font
@@ -10042,7 +10042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.5u"
 			(at 36.195 99.06 0)
 			(effects
 				(font
@@ -10113,7 +10113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 259.08 160.02 0)
 			(effects
 				(font
@@ -10812,7 +10812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_2u"
 			(at 158.115 160.02 0)
 			(effects
 				(font
@@ -11043,7 +11043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 56.515 160.02 0)
 			(effects
 				(font
@@ -11957,7 +11957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "cscslib:XIAO-nRF52840-SMD"
+		(property "Footprint" "cscslib:XIAO-nRF52840-DIP"
 			(at 36.83 39.37 0)
 			(effects
 				(font
@@ -12087,7 +12087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_2.25u"
 			(at 36.195 139.7 0)
 			(effects
 				(font
@@ -13204,7 +13204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cscslib:CPG151101S11_1u"
+		(property "Footprint" "cscslib:CPG151101S11_1.25u"
 			(at 218.44 160.02 0)
 			(effects
 				(font
