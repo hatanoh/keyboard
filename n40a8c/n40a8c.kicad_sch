@@ -2333,7 +2333,7 @@
 		(uuid "9831f33e-65d1-458d-93e5-d0a1a05aa6ba")
 	)
 	(no_connect
-		(at 68.58 48.26)
+		(at 68.58 55.88)
 		(uuid "b41f4abd-221d-40c2-9eb3-c14ed4275db0")
 	)
 	(no_connect
@@ -2341,7 +2341,7 @@
 		(uuid "df36035c-2cd0-4a0b-9000-d5640f398222")
 	)
 	(no_connect
-		(at 68.58 44.45)
+		(at 21.59 55.88)
 		(uuid "f673ecf0-9b4e-44b8-892d-eb08449e4f43")
 	)
 	(no_connect
@@ -4060,7 +4060,7 @@
 	)
 	(global_label "IO 0"
 		(shape bidirectional)
-		(at 68.58 52.07 0)
+		(at 68.58 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4070,7 +4070,7 @@
 		)
 		(uuid "1e2ccd3b-0d16-44cc-bef1-69a3a444ff9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9759 52.07 0)
+			(at 75.9759 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,22 +4082,22 @@
 	)
 	(global_label "IO 2"
 		(shape bidirectional)
-		(at 21.59 55.88 180)
+		(at 68.58 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "226c3660-5308-4224-94d6-4b6cc7f7bd2f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.1941 55.88 0)
+			(at 75.9759 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4858,7 +4858,7 @@
 	)
 	(global_label "IO 1"
 		(shape bidirectional)
-		(at 68.58 55.88 0)
+		(at 68.58 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4868,7 +4868,7 @@
 		)
 		(uuid "f01aaafb-aea5-4b2f-a42e-49a1b30f945b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9759 55.88 0)
+			(at 75.9759 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
